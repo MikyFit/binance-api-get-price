@@ -1,6 +1,6 @@
 # Get Real-time Crypto Prices using Axios and Binance API
 
-| Create simple application in javascript to fetch real-time prices using Axios and Binance API and store values into *.csv file.        | ![alt text](https://www.markdownguide.org/assets/images/tux.png) |
+| Create a simple app in javascript to fetch real-time prices using Axios and Binance API and store values into *.csv file.        | ![alt text](https://www.markdownguide.org/assets/images/tux.png) |
 | ----------- | ----------- |
 |       |        |
 
