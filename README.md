@@ -1,4 +1,4 @@
-# Get Real-time Crypto Prices using Axios and Binance API and export values into csv file
+# Get Real-time Crypto Prices using Axios and Binance API
 
 | Get Real-time Crypto Prices using Axios and Binance API and export values into csv file       | ![alt text](https://www.markdownguide.org/assets/images/tux.png) |
 | ----------- | ----------- |
