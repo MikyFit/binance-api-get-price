@@ -3,7 +3,7 @@
     "axios": "^0.27.2"
   },
   "name": "binance-api-get-price",
-  "description": "| Get Real-time Crypto Prices using Axios and Binance API and export values into csv file       | ![alt text](https://www.markdownguide.org/assets/images/tux.png) | | ----------- | ----------- | |       |        |",
+  "description": "| Get Real-time Crypto Prices using Axios and Binance API and export values into *.csv file       | ![alt text](https://www.markdownguide.org/assets/images/tux.png) | | ----------- | ----------- | |       |        |",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
